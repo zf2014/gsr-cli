@@ -17,7 +17,7 @@
     "cli",
     "npm tool"
   ],
-  "author": "zhangfeng",
+  "author": "fecn1987@gmail.com",
   "license": "ISC",
   "dependencies": {
     "commander": "^11.1.0",
